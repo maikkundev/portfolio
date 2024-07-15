@@ -2,9 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/statics/styles.css">
 </head>
 <body>
-
+<main>
+    <header>
+        <h1>Welcome!</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/github"><img src="../statics/github.png" height="32" width="32" alt="github logo"></a>
+        </nav>
+    </header>
+    {{ template "content" . }}
+</main>
+<footer>
+    <p>&copy; MaikkunDev 2024</p>
+</footer>
 </body>
 </html>
