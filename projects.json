@@ -1,0 +1,17 @@
+[
+  {
+    "Title": "Start - Daily Todo App",
+    "Description": "Start is a simple web application for organizing your everyday's tasks. Start was built with NextJS for the Front-end, Go for the back-end and SQLite as its database.",
+    "GitHubLink": "https://github.com/maikkundev/StartDailyToDo"
+  },
+  {
+    "Title": "Simple Data Visualization Web App",
+    "Description": "As part of the 'Software Technology' course at Ionian University, my project's classmates and I developed this simple data visualization web app. This web app was made in Python using Streamlit and Pandas.",
+    "GitHubLink": "https://github.com/maikkundev/soft-tech-project-2024/"
+  },
+  {
+    "Title": "Simple Search Engine",
+    "Description": "As part of the 'Information Retrieval' course at Ionian University, my classmate and I developed this simple search engine web app. This web app was made in Python using Streamlit.",
+    "GitHubLink": "https://github.com/actuallylost/inf-retrieval-2024"
+  }
+]
