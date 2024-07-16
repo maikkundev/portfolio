@@ -1,7 +1,7 @@
 [
   {
     "Title": "Start - Daily Todo App",
-    "Description": "Start is a simple web application for organizing your everyday's tasks. Start was built with NextJS for the Front-end, Go for the back-end and SQLite as its database.",
+    "Description": "Start is a simple web application for organizing your everyday tasks. Start is being built with NextJS for the Front-end, Go for the back-end and SQLite as its database.",
     "GitHubLink": "https://github.com/maikkundev/StartDailyToDo"
   },
   {
