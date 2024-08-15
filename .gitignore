@@ -21,3 +21,7 @@
 # Go workspace file
 go.work
 
+# air configuration
+.air.toml
+tmp/
+
