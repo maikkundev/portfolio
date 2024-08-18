@@ -79,9 +79,10 @@ const config: Config = {
 
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Portfolio",
+      title: "MaikkunDev",
 
       items: [
+        { to: "/", label: "Portfolio", position: "left" },
         { to: "/blog", label: "Blog", position: "left" },
         { to: "/contact", label: "Contact", position: "left" },
         {
