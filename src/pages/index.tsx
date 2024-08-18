@@ -17,8 +17,10 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">
           Hi! My name is Michael, I'm a Back-end developer! I'm currently
-          studying Computer Science at Ionian University. Below you will find
-          some of my ongoing and finished projects!
+          studying Computer Science at Ionian University.
+        </p>
+        <p className="hero__subtitle">
+          Below you will find some of my ongoing and finished projects!
         </p>
       </div>
     </header>
