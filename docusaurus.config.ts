@@ -85,14 +85,14 @@ const config: Config = {
         { to: "/blog", label: "Blog", position: "left" },
         { to: "/contact", label: "Contact", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/maikkundev",
           label: "GitHub",
           position: "right",
         },
       ],
     },
     footer: {
-      style: "dark",
+      style: "light",
 
       copyright: `Copyright © ${new Date().getFullYear()} MaikkunDev - Built with Docusaurus.`,
     },
