@@ -72,6 +72,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: true,
+    },
+
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Portfolio",
