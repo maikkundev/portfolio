@@ -19,7 +19,7 @@ function HomepageHeader() {
           studying Computer Science at Ionian University.
         </p>
         <p className="hero__subtitle">
-          Below you will find some of my ongoing and finished projects!
+          Below you will find some of my on-going and finished projects!
         </p>
       </div>
     </header>
